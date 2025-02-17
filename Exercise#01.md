@@ -7,20 +7,20 @@ C(q) = 25q^2 + 2000q
 $$
 
 where:
-- \( C(q) \) represents the **total cost** of producing \( q \) units.
-- \( q \) is the **quantity** of products manufactured.
+- $ C(q) $ represents the **total cost** of producing $ q $ units.
+- $ q $ is the **quantity** of products manufactured.
 
 We will derive expressions for:
 1. **Marginal Cost (MC)** – the additional cost of producing one more unit.
 2. **Revenue (R)** – the total money earned from selling the products.
-3. **Profit (\(\Pi\))** – the total earnings after deducting costs from revenue.
+3. **Profit ($\Pi$)** – the total earnings after deducting costs from revenue.
 
 ---
 
 ## **Step 1: Marginal Cost Calculation**
 
 ### **Definition of Marginal Cost**
-The **Marginal Cost (MC)** is the additional cost incurred by producing **one more unit** of the product. Mathematically, it is defined as the **derivative of the total cost function** with respect to \( q \):
+The **Marginal Cost (MC)** is the additional cost incurred by producing **one more unit** of the product. Mathematically, it is defined as the **derivative of the total cost function** with respect to $ q $:
 
 \[
 MC(q) = \frac{dC(q)}{dq}
@@ -37,7 +37,7 @@ Given the cost function:
 C(q) = 25q^2 + 2000q
 \]
 
-Taking the **derivative** with respect to \( q \):
+Taking the **derivative** with respect to $ q $:
 
 \[
 MC(q) = \frac{d}{dq} (25q^2 + 2000q)
@@ -54,8 +54,8 @@ MC(q) = 50q + 2000
 \]
 
 ### **Interpretation of Marginal Cost**
-- The function **\( MC(q) = 50q + 2000 \)** means:
-  - **For each additional unit produced, the cost increases by \( 50q \)**.
+- The function **$ MC(q) = 50q + 2000 $** means:
+  - **For each additional unit produced, the cost increases by $ 50q $**.
   - There is a **fixed cost component of 2000**, meaning production always incurs at least this amount.
 
 Thus, the **marginal cost function** is:
@@ -75,7 +75,7 @@ MC(q) = 50q + 2000
 R = \text{Price per unit} \times \text{Quantity sold}
 \]
 
-Since the widgets are sold at **marginal cost**, the selling price per unit \( \pi \) is:
+Since the widgets are sold at **marginal cost**, the selling price per unit $ \pi $ is:
 
 \[
 \pi = MC(q)
@@ -108,7 +108,7 @@ R(q) = 50q^2 + 2000q
 ## **Step 3: Profit Calculation**
 
 ### **Definition of Profit**
-**Profit (\(\Pi\))** is the difference between **total revenue** and **total cost**:
+**Profit ($\Pi$)** is the difference between **total revenue** and **total cost**:
 
 \[
 \Pi(q) = R(q) - C(q)
@@ -145,7 +145,7 @@ Rearrange the terms:
 ### **Interpretation of Profit**
 - The profit function follows a **quadratic trend**.
 - As production **increases, profit grows quadratically**.
-- The cancellation of \( 2000q \) suggests that revenue and cost increase at the same rate in the linear term.
+- The cancellation of $ 2000q $ suggests that revenue and cost increase at the same rate in the linear term.
 
 Thus, the **profit function** is:
 
@@ -186,7 +186,7 @@ Thus, the **profit function** is:
    - Selling at **marginal cost ensures revenue is maximized**.
 
 3. **Profit Insights:**
-   - Profit is purely dependent on \( q^2 \), meaning higher production **exponentially increases profits**.
+   - Profit is purely dependent on $ q^2 $, meaning higher production **exponentially increases profits**.
    - The absence of a linear term means **no direct constant profit per unit**.
 
 4. **Business Implication:**
