@@ -2,9 +2,9 @@
 
 A manufacturer estimates that the following function represents the **total variable cost** for manufacturing a product:
 
-\[
+$$
 C(q) = 25q^2 + 2000q
-\]
+$$
 
 where:
 - \( C(q) \) represents the **total cost** of producing \( q \) units.
