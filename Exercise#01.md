@@ -7,8 +7,8 @@ C(q) = 25q^2 + 2000q
 \]
 
 where:
-- **\( C(q) \)** represents the **total cost** of producing \( q \) units.
-- **\( q \)** is the **quantity** of products manufactured.
+- \( C(q) \) represents the **total cost** of producing \( q \) units.
+- \( q \) is the **quantity** of products manufactured.
 
 We will derive expressions for:
 1. **Marginal Cost (MC)** – the additional cost of producing one more unit.
@@ -20,7 +20,7 @@ We will derive expressions for:
 ## **Step 1: Marginal Cost Calculation**
 
 ### **Definition of Marginal Cost**
-The **Marginal Cost (MC)** is the additional cost incurred by producing **one more unit** of the product. Mathematically, it is the **derivative of the total cost function** with respect to \( q \):
+The **Marginal Cost (MC)** is the additional cost incurred by producing **one more unit** of the product. Mathematically, it is defined as the **derivative of the total cost function** with respect to \( q \):
 
 \[
 MC(q) = \frac{dC(q)}{dq}
@@ -30,7 +30,8 @@ MC(q) = \frac{dC(q)}{dq}
 - It helps in **pricing decisions** by determining the cost of additional production.
 - It is crucial in **profit maximization**, as businesses aim to produce where **marginal cost equals marginal revenue**.
 
-Now, substituting the given cost function:
+### **Calculation of Marginal Cost**
+Given the cost function:
 
 \[
 C(q) = 25q^2 + 2000q
@@ -43,6 +44,10 @@ MC(q) = \frac{d}{dq} (25q^2 + 2000q)
 \]
 
 Applying the **power rule**:
+
+\[
+MC(q) = 2(25)q^{2-1} + 2000(1)q^{1-1}
+\]
 
 \[
 MC(q) = 50q + 2000
@@ -113,13 +118,14 @@ R(q) = 50q^2 + 2000q
 - A business operates to **maximize profit**.
 - Profit indicates the **financial health** and **sustainability** of production.
 
+### **Calculation of Profit**
 Substituting the expressions:
 
 \[
 \Pi(q) = (50q^2 + 2000q) - (25q^2 + 2000q)
 \]
 
-### **Step-by-Step Simplification**
+#### **Step-by-Step Simplification**
 Expanding the subtraction:
 
 \[
@@ -196,4 +202,4 @@ Understanding **marginal cost, revenue, and profit** helps manufacturers make **
 - **Revenue depends on the price and quantity.**
 - **Profit is maximized by increasing production.**
 
-🚀 **This concludes the complete step-by-step explanation!** 🚀
+🚀 **This tutorial is including the complete step-by-step explanation!** 🚀
