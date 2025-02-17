@@ -1,7 +1,3 @@
-## **Complete Step-by-Step Explanation with Definitions**
-
----
-
 # **Exercise 01: Marginal Cost, Revenue, and Profit Calculation**
 
 A manufacturer estimates that the following function represents the **total variable cost** for manufacturing a product:
@@ -11,8 +7,8 @@ C(q) = 25q^2 + 2000q
 \]
 
 where:
-- \( C(q) \) represents the **total cost** of producing \( q \) units of the product.
-- \( q \) is the **quantity** of products manufactured.
+- **\( C(q) \)** represents the **total cost** of producing \( q \) units.
+- **\( q \)** is the **quantity** of products manufactured.
 
 We will derive expressions for:
 1. **Marginal Cost (MC)** – the additional cost of producing one more unit.
@@ -47,10 +43,6 @@ MC(q) = \frac{d}{dq} (25q^2 + 2000q)
 \]
 
 Applying the **power rule**:
-
-\[
-MC(q) = 2(25)q^{2-1} + 2000(1)q^{1-1}
-\]
 
 \[
 MC(q) = 50q + 2000
@@ -138,10 +130,6 @@ Rearrange the terms:
 
 \[
 \Pi(q) = (50q^2 - 25q^2) + (2000q - 2000q)
-\]
-
-\[
-\Pi(q) = 25q^2 + 0
 \]
 
 \[
