@@ -1,5 +1,3 @@
-write below as readme file
-
 # UTS-43026 Tutorial-01
 
 ## Exercise 01: Marginal Cost, Revenue, and Profit Calculation
